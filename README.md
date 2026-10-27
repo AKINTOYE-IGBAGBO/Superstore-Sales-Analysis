@@ -36,7 +36,9 @@ Profit margin - 12.47%
 **Tools**
 
 POWER BI
+
 Power Query - Data cleaning
+
 DAX Functions - To create measures and KPIs
 
 ---
