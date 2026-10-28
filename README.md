@@ -62,7 +62,7 @@ DAX Functions - To create measures and KPIs
 
 **Key Business Insights**
 
-1.	The company increased in sales over the year with 52 % growth in sales at the end of year 2017 indicating a good sales performance overall.	
+1.	A slow growth was observed from 2014 to 2015 while a sharp growth from 2016 maintaining above 20 percent growth. The company increased in sales over the year from 2014 to 2017 with 52 % growth in sales indicating a good sales performance overall.	
 
 2.	The company generated the most revenue and profit from the west region.
 
@@ -76,7 +76,7 @@ DAX Functions - To create measures and KPIs
 
 **Business Risk**
 
-1.	Some products are sold at a loss which is not sustainable.
+1.	Some products are sold at a loss which is not sustainable for the business and create overdependence on the profitable ones.
 
 2.	Home office customers sale is very low compared to other segment and risk exposing the business to overdependence of other segments.
 
