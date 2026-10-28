@@ -59,6 +59,8 @@ DAX Functions - To create measures and KPIs
 
 ### Visualization 
 
+[DASHBOARD](https://github.com/AKINTOYE-IGBAGBO/Superstore-Sales-Analysis/blob/main/II_SUPERSTORE%20DASHBOARD.jpg)
+
 
 ### Insights 
 
