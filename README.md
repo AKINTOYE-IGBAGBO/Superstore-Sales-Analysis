@@ -2,6 +2,8 @@
 
 To analyze company's growth and investigate the factors or behaviors contributing to the growth using interactive reports.
 
+[RAW DATA](https://github.com/AKINTOYE-IGBAGBO/Superstore-Sales-Analysis/blob/main/Sample%20-%20Superstore.csv)
+
 ---
 
 ### Objectives
